@@ -87,3 +87,5 @@ Add animations for task transitions
 The To-Do List App is a lightweight yet powerful example of what you can build using just core web development technologies. It is perfect for learners who want to master the basics of JavaScript and apply their knowledge to create real-world applications. This app is also highly customizable, making it a great starting point for more complex projects.
 
 Whether you're a student trying to manage assignments, a developer practicing frontend skills, or someone just trying to get organized — this to-do app has something valuable to offer.
+![Image](https://github.com/user-attachments/assets/664f8bfd-6fe3-4937-96a2-524fa3059f53)
+![Image](https://github.com/user-attachments/assets/4a10cdcc-0535-4de2-a6a4-dd07f3e81805)
