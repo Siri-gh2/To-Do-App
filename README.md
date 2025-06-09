@@ -1,4 +1,4 @@
-o-Do List App – A Simple and Intuitive Task Manager
+To-Do List App – A Simple and Intuitive Task Manager
 The To-Do List App is a clean, user-friendly, and fully functional task management tool built using HTML, CSS, and JavaScript. It is designed to help users organize their daily life with ease — whether it's for work, study, personal goals, or simple reminders. With real-time updates and persistent data storage using the browser's localStorage, this app ensures users don’t lose track of their tasks even after refreshing or closing the browser.
 
 This project is ideal for beginners in frontend web development and a great addition to any developer’s portfolio. It demonstrates practical skills in DOM manipulation, user interaction handling, and data persistence without requiring any frameworks or external libraries.
